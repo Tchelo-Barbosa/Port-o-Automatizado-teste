@@ -1,4 +1,4 @@
-# 🎹 $\color{red}{Portão{}}$ $\color{red}{Automatizado{}}$ 
+# 🚪 $\color{red}{Portão{}}$ $\color{red}{Automatizado{}}$ 
 ### Este é um projeto simples que simula um sistema de portão eletrônico inteligente utilizando um Arduino Uno. Diferente de sistemas convencionais, este utiliza um Servo Motor para um controle preciso de angulação (abertura e fechamento) e um par de LEDs que piscam alternadamente para sinalizar que o portão está aberto.
 ---
 
